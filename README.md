@@ -14,6 +14,12 @@ git
 creating new Branche
 - git checkout -b branch_name
 
+create an commit
+- git commit -m "description"
+
+push all commits
+- git push
+
 show all branches
 - git branch -a
 
